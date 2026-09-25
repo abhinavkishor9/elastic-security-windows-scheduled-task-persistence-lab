@@ -2,10 +2,10 @@
 ## Overview
 Windows Task Scheduler allows programs or scripts to execute automatically according to triggers such as:
 
-User logon
-System startup
-A specific time
-Other scheduled conditions
+-  User logon
+- System startup
+- A specific time
+- Other scheduled conditions
 
 Scheduled Tasks are legitimate Windows functionality, so the existence of a scheduled task is not automatically malicious.
 
