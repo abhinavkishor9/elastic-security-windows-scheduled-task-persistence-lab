@@ -1,7 +1,5 @@
 # elastic-security-windows-scheduled-task-persistence-lab
 ## Overview
-Concept
-
 Windows Task Scheduler allows programs or scripts to execute automatically according to triggers such as:
 
 User logon
